@@ -5,9 +5,9 @@
 <img align="right" alt="Coding with Cakin" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
-- 🔭 I’m currently working on [Reddit Clone](https://github.com/rider0211/HypeMathGame)
+- 🔭 I’m currently working on [Unity Game](https://github.com/rider0211/HypeMathGame)
 
-- 🔭 I’m currently working on [Tesla Clone](https://github.com/rider0211/freebit)
+- 🔭 I’m currently working on [Freebit.me](https://github.com/rider0211/freebit)
 
 - 🌱 I’m currently learning **Advanced Blockchain & AI.**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anthony-cakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-cakin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rider0211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Steven Stence" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
