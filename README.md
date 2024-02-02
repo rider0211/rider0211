@@ -5,9 +5,9 @@
 <img align="right" alt="Coding with Cakin" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
-- 🔭 I’m currently working on [Unity Game](https://github.com/rider0211/HypeMathGame)
+- 🔭 I’m currently working on [1880 Video Project](https://github.com/rider0211/1880_video_backend)
 
-- 🔭 I’m currently working on [Freebit.me](https://github.com/rider0211/freebit)
+- 🔭 I’m currently working on [Auto Email Service](https://github.com/rider0211/OtisEmailService)
 
 - 🌱 I’m currently learning **Advanced Blockchain & AI.**
 
